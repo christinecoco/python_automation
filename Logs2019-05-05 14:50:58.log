@@ -1,0 +1,9 @@
+2019-05-05 14:50:59,001-BrowserEngine-INFO-you had select Chrome browser
+2019-05-05 14:50:59,002-BrowserEngine-INFO-The test server url is:https://www.baidu.com
+2019-05-05 14:51:03,360-BrowserEngine-INFO-Starting Chrome browser
+2019-05-05 14:51:04,661-BrowserEngine-INFO-open url:https://www.baidu.com
+2019-05-05 14:51:04,661-BrowserEngine-INFO-maximize the current window
+2019-05-05 14:51:04,663-BrowserEngine-INFO-set implicitly wait 4 seconds
+2019-05-05 14:51:04,713-BasePage-INFO-Current page title is 百度一下，你就知道
+2019-05-05 14:51:04,846-BrowserEngine-INFO-you had select Chrome browser
+2019-05-05 14:51:04,847-BrowserEngine-INFO-The test server url is:https://www.baidu.com

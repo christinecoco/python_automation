@@ -1,0 +1,9 @@
+2018-08-16 10:22:38,316-BrowserEngine-INFO-you had select Chrome browser
+2018-08-16 10:22:38,334-BrowserEngine-INFO-The test server url is:https://www.baidu.com
+2018-08-16 10:22:43,390-BrowserEngine-INFO-Starting Chrome browser
+2018-08-16 10:22:51,336-BrowserEngine-INFO-open url:https://www.baidu.com
+2018-08-16 10:22:51,548-BrowserEngine-INFO-maximize the current window
+2018-08-16 10:22:51,549-BrowserEngine-INFO-set implicitly wait 4 seconds
+2018-08-16 10:22:51,590-BasePage-INFO-Had find the element ' 'successfulby id via value:kw
+2018-08-16 10:22:51,933-BasePage-INFO-Had tpe 'selenium'in inputBox
+2018-08-16 10:22:51,980-BasePage-INFO-Had find the element ''successfulby xpath via value://*[@id="su"]
